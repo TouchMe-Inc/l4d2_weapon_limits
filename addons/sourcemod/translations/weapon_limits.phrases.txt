@@ -1,0 +1,13 @@
+"Phrases"
+{
+	"TAG"
+	{
+		"en"		"<{green}Weapon Limits{default}> "
+	}
+
+	"DENY"
+	{
+		"#format"       "{1:d}"
+		"en"		"This weapon group has reached its max of {olive}{1}"
+	}
+}
